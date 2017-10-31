@@ -3,6 +3,7 @@ $x=$_POST['a'];
 $y=$_POST['b'];
 $z=$_POST['c'];
 $m=$_POST['d'];
+$ee=$_POST["ggg"];
 
 mysql_connect("localhost","root","");
 mysql_select_db("UP");
@@ -24,6 +25,7 @@ else
 	else
 	{
 		echo "Username exist";
+		echo"Go back and signup again";
 	}
 	
 }
