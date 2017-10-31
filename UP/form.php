@@ -12,7 +12,7 @@ Enter phone :</br>
 
 <input type="submit" value="submit"></br>
 <input type="reset" value="reset"></br>
-
+echo "Form Submitted";
 
 
 
