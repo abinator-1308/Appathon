@@ -22,6 +22,8 @@ html {
 <h1>IRCTC</h1>
 <hr>
 <br>
+	<button>Click Here</button>
+	<a href="#"></a>
 </form>
 
 <form method="post" action="login.php">
